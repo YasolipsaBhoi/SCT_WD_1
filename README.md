@@ -34,10 +34,5 @@ It includes:
 
 ---
 
-## 📸 Screenshots  
-_Add screenshots here (optional) by uploading in GitHub and pasting the link._  
-
----
-
 ## 🙌 Acknowledgements  
 This project is created as a part of my **Skill Craft Technology Internship**.  
